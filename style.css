@@ -40,6 +40,10 @@ ul li a:hover , li a.active{
   line-height: 27px;
 }
 
+.logo{
+  padding-left: 20px;
+}
+
 .navigation a {
   padding: 20px 20px;
 }
